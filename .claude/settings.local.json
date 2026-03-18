@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l /f/rizki/nozirki/nozirki-app/.claude/nextjs-core/*.md)"
+    ]
+  }
+}
